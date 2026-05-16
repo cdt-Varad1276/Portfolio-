@@ -100,3 +100,47 @@ h2 {
         border-color: transparent;
     }
 }
+.skill {
+    margin: 20px 0;
+}
+
+.skill p {
+    margin: 5px 0;
+    font-weight: bold;
+}
+
+.progress {
+    width: 100%;
+    background: #1e293b;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.progress-bar {
+    padding: 8px;
+    color: white;
+    text-align: right;
+    border-radius: 20px;
+    font-size: 14px;
+}
+
+/* Individual widths */
+.html {
+    width: 85%;
+    background: #2563eb;
+}
+
+.sql {
+    width: 75%;
+    background: #2563eb;
+}
+
+.python {
+    width: 65%;
+    background: #2563eb;
+}
+
+.dash {
+    width: 80%;
+    background: #2563eb;
+}
